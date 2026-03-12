@@ -9,6 +9,7 @@
 ### **AI / ML Engineer | Python Developer | FastAPI | Machine Learning**
 
 🌐 **Portfolio:** https://priya-ak.lovable.app
+
 I am a passionate **AI/ML Engineer** and **Data Analyst** who loves building intelligent systems using Python, Machine Learning, Deep Learning, and modern backend tools like **FastAPI**.
 
 I enjoy learning new technologies, solving real-world problems, and contributing to impactful projects.
